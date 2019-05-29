@@ -10,8 +10,12 @@ magic packet:FF FF FF FF FF FF + (MAC * 16)
 
 -----------------------------------------------------------
 
-Change the mac and broadcast in the source.
+1.Change the mac and broadcast in the source.
+#windows
+2.Change the setting in the network interface card.
+ - open the wake on card
+ - open the magic packet wake on card
 
 
-* Never test.
+* test ok
 * next : read the File for multiple PC.

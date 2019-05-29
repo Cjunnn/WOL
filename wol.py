@@ -6,7 +6,7 @@ import struct
 import time
 
 
-MAC = "4C-ED-FB-3A-A5-4F"
+MAC = "E0-3F-49-AF-D8-BA"
 BROADCAST = "192.168.1.255"
 
 
